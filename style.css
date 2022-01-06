@@ -93,7 +93,7 @@
     .child {
         position: absolute;
         top: 50%;
-        left: 30%;
+        left: 32%;
         transform: translate(-50%, -50%);
     }
     .hexCode {
@@ -109,7 +109,7 @@
         user-select: none;
     }
     #btn {
-        padding: .55rem;
+        padding: 1rem;
         font-size: .8rem;
         font-weight: bold;
     }
